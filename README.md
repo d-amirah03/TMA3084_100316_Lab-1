@@ -16,7 +16,7 @@ A Dart console program that calculates the total payment for a pizza order.
 
 ## How to run
 ```
-dart run pizza_order.dart
+dart run main.dart
 ```
 
 ## Sample run
